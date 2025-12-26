@@ -26,6 +26,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 # PROGRAM:
+~~~
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -135,6 +136,7 @@ Publish the website in the given URL.
 
 </body>
 </html>
+~~~
 # OUTPUT:
 <img width="1900" height="1127" alt="image" src="https://github.com/user-attachments/assets/cd2717a4-6e42-4656-91fd-8be55100ae49" />
 
